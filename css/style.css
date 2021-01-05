@@ -1,0 +1,47 @@
+*{
+	margin:0;
+	padding:0;
+	overflow: hidden;
+}
+
+body{
+	background:#141414;
+}
+
+.main{
+	width:1280px;
+	margin:10px auto;
+	font-family:"Times New Roman";
+}
+
+header h1{
+	text-align:center;
+	color:#fff;
+	text-decoration:bold;
+	font-size:48pt;
+}
+
+.content{
+	margin-top:80px;
+	margin-left:80px;
+	margin-right:80px;
+}
+
+.download{
+	margin-top:200px;
+	margin-left:auto;
+	width:750px;
+}
+
+.download button{
+	width:350px;
+	height:75px;
+	background:#000;
+	bolder:none;
+	bolder-radius:30px;
+}
+
+
+button p{
+	color:#fff;
+}
